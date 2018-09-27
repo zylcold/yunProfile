@@ -1,7 +1,7 @@
 import * as React from "react"
 import * as ReactDOM from "react-dom"
-import Helloworld from './helloworld.md'
+import Resume from './resume.md'
 ReactDOM.render(
-    <Helloworld />,
+    <Resume />,
     document.getElementById("root")
 )
