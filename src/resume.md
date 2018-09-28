@@ -43,7 +43,6 @@
 
 ## 技术文章
 - [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get)
 
 ## 演讲和讲义
 
