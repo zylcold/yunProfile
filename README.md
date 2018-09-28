@@ -9,4 +9,5 @@
 ```sh
     npm install
     ./start_service.sh
+    visit http://localhost:9999
 ```
