@@ -28,6 +28,7 @@
     "@babel/preset-react": "^7.0.0",
     "awesome-typescript-loader": "^5.2.1",
     "babel-loader": "^8.0.2",
+    "html-webpack-plugin": "^3.2.0",
     "react-markdown-loader": "^1.1.14",
     "reactdown": "^0.8.0",
     "source-map-loader": "^0.2.4",
