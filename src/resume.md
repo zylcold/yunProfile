@@ -7,7 +7,7 @@
  - 朱云龙/男/1991/汉
  - 工作年限：4年
  - 本科/潍坊学院/软件工程
- - [blog](https://blog.yunlongz.com)/[Github](https://github.com/zylcold)
+ - [Blog](https://blog.yunlongz.com)/[GitHub](https://github.com/zylcold)
  - 期望职位：iOS高级程序员
  - 期望薪资：15k~20k，特别喜欢的公司可例外
  - 期望城市：北京
