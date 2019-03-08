@@ -16,10 +16,10 @@
     "@types/react-dom": "^16.0.7",
     "@types/reactstrap": "^6.0.2",
     "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7",
     "react": "^16.5.2",
-    "react-detect-print": "0.0.2",
     "react-dom": "^16.5.2",
-    "react-to-print": "^2.0.0-alpha-3",
     "reactstrap": "^6.3.1"
   },
   "devDependencies": {
@@ -29,7 +29,7 @@
     "awesome-typescript-loader": "^5.2.1",
     "babel-loader": "^8.0.2",
     "html-webpack-plugin": "^3.2.0",
-    "react-markdown-loader": "^1.1.14",
+    "react-markdown-loader": "^1.2.0",
     "reactdown": "^0.8.0",
     "source-map-loader": "^0.2.4",
     "typescript": "^3.0.3",
